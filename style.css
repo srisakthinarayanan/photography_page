@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 
+
+
 html {
-    scroll-behavior: smooth;
+    scroll-behavior: auto;
 }
 
 body {
@@ -26,6 +28,7 @@ h2 {
     margin: 0;
     color: #555; /* Changed text color */
 }
+
 
 img {
     display: block;
